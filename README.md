@@ -18,4 +18,4 @@
      
 
 Готовое решение предоставить в виде ссылки на публичный Github-репозиторий HRу.
-Вопросы по тестовому заданию можно адресовать в Telegram: [@wainpc](https://t.me/wainpc) 
+Вопросы по тестовому заданию можно адресовать в Telegram: [@wainpc](https://t.me/wainpc) / [@AStaroverov](https://t.me/AStaroverov) 
