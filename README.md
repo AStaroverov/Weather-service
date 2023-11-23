@@ -1,7 +1,7 @@
 # Weather service
 
 Сервис должен:
-- Быть написан на NodeJS, база - PostgreSQL.
+- Быть написан на NodeJS + TypeScript, база - PostgreSQL.
 - Получать данные о погоде в реальном времени с использованием [API Tomorrow.io](https://docs.tomorrow.io/reference/realtime-weather). Интервал поллинга API внутри сервиса - 1 минута.
 - Предоставлять публичный Websocket API со следующими эндпоинтами:
   - Получение погоды в реальном времени. Параметры эндпоинта:
